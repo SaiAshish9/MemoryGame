@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MemoryGame/static/css/main.3f45e2aa.chunk.css",
+    "main.js": "/MemoryGame/static/js/main.2b383c0f.chunk.js",
+    "main.js.map": "/MemoryGame/static/js/main.2b383c0f.chunk.js.map",
+    "runtime~main.js": "/MemoryGame/static/js/runtime~main.d54f135b.js",
+    "runtime~main.js.map": "/MemoryGame/static/js/runtime~main.d54f135b.js.map",
+    "static/js/2.3c931148.chunk.js": "/MemoryGame/static/js/2.3c931148.chunk.js",
+    "static/js/2.3c931148.chunk.js.map": "/MemoryGame/static/js/2.3c931148.chunk.js.map",
+    "index.html": "/MemoryGame/index.html",
+    "precache-manifest.efb493378d9bc50cd327b7472bca0fd6.js": "/MemoryGame/precache-manifest.efb493378d9bc50cd327b7472bca0fd6.js",
+    "service-worker.js": "/MemoryGame/service-worker.js",
+    "static/css/main.3f45e2aa.chunk.css.map": "/MemoryGame/static/css/main.3f45e2aa.chunk.css.map"
+  }
+}
